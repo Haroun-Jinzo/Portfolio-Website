@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.nassefbouanane.xyz
+
+# Sitemaps
+Sitemap: https://www.nassefbouanane.xyz/sitemap.xml
