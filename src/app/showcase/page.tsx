@@ -112,8 +112,8 @@ const SkillPage = () => {
           <div className="flex flex-col gap-3">
           <Heading>Snapshots</Heading>
           <FramerWrapper y={0} x={200}>
-            <p className="font-poppins text-lg w-full text-primary max-sm:text-base">
-              Ps: I like Photography and taking pictures of what I see around me.
+            <p className="font-poppins text-lg w-full text-primary max-sm:text-base bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md">
+              Ps: I like Photography and taking pictures of stuff.
             </p>
           </FramerWrapper>
         </div>

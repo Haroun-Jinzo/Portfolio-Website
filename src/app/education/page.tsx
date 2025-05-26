@@ -7,17 +7,17 @@ const educationPage = () => {
   const experiences = [
     {
       duration: "Oct 2023 - Sep 2024",
-      position: "Game Developper",
+      position: "Game Developer",
       company: "SheTech | Dubai, UAE",
       details: [
         'I was part of a team of game developers, overseeing the "Virtual Adventure Workout" project.',
         "Crafted innovative game mechanics, menus, and intricate systems, including Heart Rate Tracking and calorie tracking.",
         "Established seamless data flow between games and a comprehensive dashboard, enhancing user experience and data analysis.",
-        "Authored comprehensive Game Design Documents (GDD) to provide a structured blueprint for the games' development and features.",
+        "I developed very intresiting gameplay designs , Npc behaviour and sound system using FMOD.",
       ],
       projects: [
         "VR Warmup Module",
-        "Aether: VR Biking Module",
+        "Celestial Ride Odyssey: VR Biking Module",
         "King Khaled Foundation XR Car Carbon Emission",
         "Baha an XR mounmental game similar to Pokemon Go"
       ],
@@ -50,7 +50,7 @@ const educationPage = () => {
               y={0}
               x={-100}
               delay={0.2 + index * 0.1}
-              className="w-1/4 font-rubik flex items-center justify-evenly text-lg max-sm:text-base"
+              className="w-1/4 font-rubik flex items-center justify-evenly text-lg max-sm:text-base bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md"
             >
               {exp.duration}
             </FramerWrapper>
@@ -58,7 +58,7 @@ const educationPage = () => {
               y={0}
               x={100}
               delay={0.2 + index * 0.1}
-              className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point"
+              className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md"
             >
               <div className="text-2xl font-rubik max-sm:text-xl">
                 {exp.position}, <br />

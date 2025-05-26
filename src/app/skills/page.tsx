@@ -44,27 +44,27 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200} >
 
-        <p className="text-[#3a0b0b] font-poppins text-xl w-full text-primary max-sm:text-lg">
-        Game Developer & Software Engineer with 4+ years of experience building immersive games and 1 year in a professional work environment (mobile, VR/AR, desktop) and high-performance systems. Expertise in Unity, C++ engine development, and AI integration, with a focus on clean, optimized code.<br/>
+        <p className="text-[#3a0b0b] font-poppins text-xl w-full text-primary max-sm:text-lg bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md">
+        Game Developer & Software Engineer with an experience of building immersive games and 1 year in a professional work environment (mobile, VR/AR, desktop) and high-performance systems. Expertise in Unity, C++ engine development, and AI integration, with a focus on clean, optimized code.<br/>
 
         Core Skills:<br/>
 
-        Built many games (card strategy, hack-and-slash, endless runners) and a custom C++ game engine (OpenGL, octree collision, 25% latency reduction).<br/>
+        prototyped few games (turn base card game, hack-and-slash, endless runner) and a custom C++ game engine (OpenGL, assimp, STB_Image)(still very early and getting updates).<br/>
 
-        Engineered VR healthcare platforms with real-time biometric tracking and AR exploration games (Niantic Lightship), boosting engagement by 30%.<br/>
+        Engineered VR healthcare platforms with real-time biometric tracking and AR exploration games (Niantic Lightship).<br/>
 
-        Developed AI/ML systems (C++/Python) for salary prediction (95% accuracy) and procedural tools cutting design time by 70%.<br/>
+        Developed AI/ML systems (C++/Python) for salary prediction and procedural tools cutting design time.<br/>
 
         Optimized critical systems (A* pathfinding, heap algorithms) for scalable 3D navigation and world generation.<br/>
 
         Shipped Impact:<br/>
 
-        Delivered a carbon footprint calculator for 500+ users at King Khalid Foundation.<br/>
+        Delivered a carbon footprint app for King Khalid Foundation.<br/>
 
-        Outperformed Python ML libraries by 20% with a custom C++ framework.<br/>
+        Desinged custom C++ DL, ML system(still very early and getting updates).<br/>
 
         Tech Stack:<br/>
-        Languages: C#, C++, Python | Engines: Unity, OpenGL | Tools: FMOD, Git, Kafka | AI: K-Means, Neural Networks<br/>
+        Languages: C#, C++, Python | Engines: Unity | Library: OpenGL, assimp, STB_Image | Tools: FMOD, Git, Kafka, .net, anaconda | AI: Scikit-learn, Neural Networks, ML, DL<br/>
 
 
 
