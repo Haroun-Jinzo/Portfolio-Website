@@ -44,12 +44,16 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200} >
 
-        <p className="text-[#3a0b0b] font-poppins text-xl w-full text-primary max-sm:text-lg bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md">
+        <p className="text-[#3a0b0b] font-poppins text-xl w-full text-primary max-sm:text-lg bg-gradient-to-r from-white/50 via-green-200/100 to-blue-600/50 p-4 rounded-lg shadow-md">
         Game Developer & Software Engineer with an experience of building immersive games and 1 year in a professional work environment (mobile, VR/AR, desktop) and high-performance systems. Expertise in Unity, C++ engine development, and AI integration, with a focus on clean, optimized code.<br/>
 
         Core Skills:<br/>
 
-        prototyped few games (turn base card game, hack-and-slash, endless runner) and a custom C++ game engine (OpenGL, assimp, STB_Image)(still very early and getting updates).<br/>
+        Machine Learning & Deep Learning: LSTM, RNN, model optimization, predictive analytics.<br/>
+
+        Natural Language Processing: SpaCy, NLTK, text extraction and entity recognition.<br/>
+
+        Data Engineering & MLOps: Data pipelines, Kafka integration, model deployment.<br/>
 
         Engineered VR healthcare platforms with real-time biometric tracking and AR exploration games (Niantic Lightship).<br/>
 
@@ -57,14 +61,12 @@ const skillPage = () => {
 
         Optimized critical systems (A* pathfinding, heap algorithms) for scalable 3D navigation and world generation.<br/>
 
-        Shipped Impact:<br/>
-
-        Delivered a carbon footprint app for King Khalid Foundation.<br/>
-
+        Game & Simulation Systems: Unity, C#, OpenGL, procedural generation, pathfinding algorithms<br/>
+        
         Desinged custom C++ DL, ML system(still very early and getting updates).<br/>
-
+        <br></br>
         Tech Stack:<br/>
-        Languages: C#, C++, Python | Engines: Unity | Library: OpenGL, assimp, STB_Image | Tools: FMOD, Git, Kafka, .net, anaconda | AI: Scikit-learn, Neural Networks, ML, DL<br/>
+        Languages: C#, C++, Python, SQL <br/> Machine Learning & AI: Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, SpaCy, OpenCV <br/> Engines: Unity <br/> Unity, OpenGL, Assimp, STB_Image, GOAP AI, Perlin Noise, A* Pathfinding, Octree Partitioning <br/> Tools: FMOD, Git, Kafka, .net, anaconda <br/> Deep Learning & NLP: LSTM, RNN, CNN, NLP Pipelines, Text Classification, Entity Recognition <br/> Visualization & Analytics: Matplotlib, Seaborn, LiveCharts<br/>
 
 
 

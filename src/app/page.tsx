@@ -9,7 +9,7 @@ import FramerWrapper from "@/components/animation/FramerWrapper";
 
 export const siteConfig = {
   name: "Haroun Khmiri",
-  description: "I am a Passionate Data Scientist",
+  description: "I am a Passionate Data Scientist & AI systems Architecture",
   ogImage: " ",
   url: "https://www.harounkhmiri.xyz/",
 }

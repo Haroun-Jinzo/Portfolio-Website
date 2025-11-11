@@ -16,7 +16,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.harounkhmiri.xyz/"),
+  metadataBase: new URL("https://www.harounkhmiri.me/"),
   title: {
     default: siteConfig.name,
     template: `%s - Data Scientist`,

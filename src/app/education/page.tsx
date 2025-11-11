@@ -6,9 +6,23 @@ import { Briefcase } from "lucide-react";
 const educationPage = () => {
   const experiences = [
     {
+      duration: "july 2025 - august 2025",
+      position: "Intren",
+      company: "ARSII | Sahloul, Sousse",
+      details: [
+        'Generating synthetic data of blood culture signals.',
+        "Preprocessing and feature engineering over 43 feature.",
+        "Scaling and training and evaluating  pathogens detection models.",
+        "Scaling and training and evaluating  antibiotic resistance models.",
+      ],
+      projects: [
+        "AI-Based Early Prediction of Pathogen Identification and Antibiotic Resistance from Blood Culture Signals",
+      ],
+    },
+    {
       duration: "Oct 2023 - Sep 2024",
       position: "Game Developer",
-      company: "SheTech | Dubai, UAE",
+      company: "SheTech | Monastir, Sahline",
       details: [
         'I was part of a team of game developers, overseeing the "Virtual Adventure Workout" project.',
         "Crafted innovative game mechanics, menus, and intricate systems, including Heart Rate Tracking and calorie tracking.",
@@ -58,7 +72,7 @@ const educationPage = () => {
               y={0}
               x={100}
               delay={0.2 + index * 0.1}
-              className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md"
+              className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point bg-gradient-to-r from-white/90 via-green-200/70 to-blue-600/50 p-4 rounded-lg shadow-md"
             >
               <div className="text-2xl font-rubik max-sm:text-xl">
                 {exp.position}, <br />

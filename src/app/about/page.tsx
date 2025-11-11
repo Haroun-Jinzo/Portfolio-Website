@@ -22,18 +22,16 @@ const page = () => {
       <div className="flex flex-col gap-3">
        
           <Heading>
-            Game Developerr, AI systems Architecture & Data Scientist.
+            AI systems Architecture & Data Scientist, Game Developer.
           </Heading>
    
         <FramerWrapper y={0} x={100} >
-          <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg bg-gradient-to-r from-white/50 via-green-200/50 to-blue-600/50 p-4 rounded-lg shadow-md">
+          <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg bg-gradient-to-r from-white/90 via-green-200/70 to-blue-600/50 p-4 rounded-lg shadow-md">
           Hi Everyone, I am Haroun Khmiri from Zaghouan, Tunisia.
           I am currently studying for my engineering degree in Data Science & AI in Polytechnqiue Sousse.
-          I was part of a team that created new cutting edge VR training applications to track user progress over time.
-          I am experienced in Unity, C# and C++.
-          I also experimented with AI and Machine Learning, and I am currently working on a Secret project.
-          I am a passionate gamer and I love to create games that are fun and engaging.
-          I was employed as a Technical Game Designer at SheTech Studio.
+          I am Passionate AI and software engineer with hands-on experience in machine learning, deep learning, NLP, and system optimization.
+          Skilled in designing intelligent models and developing scalable backend systems. Experienced in game development and real-time systems with Unity and OpenGL.
+          Adept at bridging theory and practice through academic research, personal projects, and professional applications.
 
           </p>
         </FramerWrapper>
